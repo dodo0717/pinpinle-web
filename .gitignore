@@ -1,0 +1,7 @@
+node_modules/
+.playwright-cli/
+.vscode/
+.idea/
+_cdp*/
+temp/
+*.log
